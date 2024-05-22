@@ -1,0 +1,17 @@
+{
+  "name": "initialising-a-node-package",
+  "version": "2.0.1",
+  "description": "This is creating a package with npm init",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "hello",
+    "npm",
+    "basic",
+    "project"
+  ],
+  "author": "John Doe",
+  "license": "ISC"
+}
